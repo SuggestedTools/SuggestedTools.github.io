@@ -9,7 +9,7 @@ window.onload = function() {
         "BestAIimageGenerators": "The-Best-AI-Image-Generators",
         "BestAIChatbotBuilders": "Best-AI-Chatbot-Builders",
         "BestAIWriting": "Best-AI-Writing",
-
+        "BusinessCard": "BusinessCard",
     };
 
     if (map[key]) {
