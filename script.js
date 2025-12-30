@@ -10,6 +10,7 @@ window.onload = function() {
         "BestAIChatbotBuilders": "Best-AI-Chatbot-Builders",
         "BestAIWriting": "Best-AI-Writing",
         "BusinessCard": "BusinessCard",
+        "VacationRentalSoftware": "VacationRentalSoftware",
     };
 
     if (map[key]) {
