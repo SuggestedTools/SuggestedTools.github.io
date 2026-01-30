@@ -11,6 +11,7 @@ window.onload = function() {
         "BestAIWriting": "Best-AI-Writing",
         "BusinessCard": "BusinessCard",
         "VacationRentalSoftware": "VacationRentalSoftware",
+        "AIWebsiteBuilders": "AIWebsiteBuilders",
     };
 
     if (map[key]) {
